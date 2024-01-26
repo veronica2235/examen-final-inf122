@@ -1,0 +1,12 @@
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-transform: capitalize;
+    
+}
+.contenedor img{
+    border-radius: 50%;
+    object-fit: cover;
+    
+}
